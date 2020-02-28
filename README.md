@@ -2,7 +2,11 @@
 
 ## Name: Inez Martens
 
-## Group: 1 AVDa
+<<<<<<< HEAD
+## Group:
+=======
+## Group:
+>>>>>>> ccc06bd1cee46943292060f77dcc36c8231d2e78
 
 ## Getting Started
 
