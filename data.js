@@ -10,10 +10,10 @@ const data = {
      */
 
     "general": {
-        "firstName": "Andrei",      // fill in with your own first name
-        "lastName": "Tarkovsky",    // fill in with your own last name
-        "class": "1NMD",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
-        "studentnumber": "8675309"  // fill in with your student number
+        "firstName": "Inez",      // fill in with your own first name
+        "lastName": "Martens",    // fill in with your own last name
+        "class": "1AVDa",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
+        "studentnumber": "112925"  // fill in with your student number
     },
 
     /**
@@ -25,18 +25,18 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
-                "href": "./assignments/assignment1/documents/a1-inspiration.pdf",
+                "href": "./assignments/assignment1/documents/AVDa_MartensInez_Inspiratieboek.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/a1-visual-designs.xd",
+                "href": "./assignments/assignment1/documents/AVDa_MartensInez_SmallApplication.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/86578d98-141b-4b40-5e70-dce07a7cbeb3-f066/",
                 "target": "_blank"
             }
         ]
